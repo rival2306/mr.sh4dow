@@ -7,4 +7,4 @@ Cara install:
 2.pkg update
 3.pkg install sh
 4.git clone https://github.com/rival2306/mr.sh4dow
-5.sh Mr.sh4dow.sh
+5.sh Mr.shadow.sh
